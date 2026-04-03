@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Intervention</string>
+    <string name="accessibility_service_description">This service is used to detect when specific apps are opened to show helpful overlays.</string>
+    <string name="settings_title">Settings</string>
+    <string name="select_apps">Select Apps to Intervene</string>
+    <string name="appearance_frequency">Overlay Appearance Frequency (minutes)</string>
+    <string name="request_overlay_permission">Please grant Overlay Permission in system settings.</string>
+    <string name="request_accessibility_permission">Please enable Accessibility Service in system settings.</string>
+</resources>
